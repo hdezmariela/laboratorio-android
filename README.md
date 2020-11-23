@@ -1,7 +1,7 @@
 # laboratorio-android
 
-Universidad de Costa Rica
-Laboratorio de Programación
+Universidad de Costa Rica\
+Laboratorio de Programación\
 Estudiante: Mariela Hernández Chacón
 
 ## App con botones de sonidos de la naturaleza
